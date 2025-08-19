@@ -10,6 +10,7 @@
 
 #### Математика
 - [**Лекции по матану от Шапошникова**](https://teach-in.ru/lecturer/shaposhnikov)
+- [**Лекции по линалу от Авдеева**](https://www.youtube.com/watch?v=m3sgbykms3Y&list=PLEwK9wdS5g0qz0T0B6fEcJWMnJhu-1NcE)
 
 #### Data Science и Machine Learning
 - [**Школа VK MADE анализа данных**](https://github.com/alexysxeightn/MADE/blob/main/README.md) - аналог ШАДа, курсы за разные года
