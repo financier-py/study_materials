@@ -14,6 +14,8 @@
 #### Data Science и Machine Learning
 - [**Школа VK MADE анализа данных**](https://github.com/alexysxeightn/MADE/blob/main/README.md) - аналог ШАДа, курсы за разные года
 - [**Школа глубокого обучения МФТИ на Stepik**](https://stepik.org/org/dlschool#!) - курсы по глубокому и машинному обучению
+- [**ВШЭ Материалы Соколова**](https://github.com/esokolov/ml-course-hse/tree/master) - ссылки на лекции, конспекты лекций и семинаров, домашние задания
+- [**Курс Пчелина Константина в МГУ (весна 2025)**](https://github.com/pyshka501/courses_MSU/tree/main?tab=readme-ov-file)
 
 #### Курсы ШАДа
 - [**Машинное обучение**](https://www.youtube.com/watch?v=SZkrxWhI5qM&feature=youtu.be)
@@ -23,11 +25,9 @@
 - [**Сложность вычислений**](https://www.youtube.com/watch?v=VgYvqWd3hnU&list=PLJOzdkh8T5kpqLbFo-ZgXsU5HtFNcVDHo)
 - [**Параллельные вычисления и распределенные системы**](https://www.youtube.com/watch?v=VgYvqWd3hnU&list=PLJOzdkh8T5kpqLbFo-ZgXsU5HtFNcVDHo)
 
-#### Университетские курсы
-- [**Курс Пчелина Константина в МГУ (весна 2025)**](https://github.com/pyshka501/courses_MSU/tree/main?tab=readme-ov-file)
-
 ### 📖 Книги и справочники
 - [**Хендбук по ML от Яндекс**](https://education.yandex.ru/handbook/ml)
+- [**Справочник по DS на Python**](https://jakevdp.github.io/PythonDataScienceHandbook/) - краткий экскурс в NumPy, Pandas, Matplotlib, Scikit-Learn
 
 ## Структура репозитория
 - `data_science/` - книги по DS и ML
