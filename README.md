@@ -27,6 +27,13 @@
 - [**Сложность вычислений**](https://www.youtube.com/watch?v=VgYvqWd3hnU&list=PLJOzdkh8T5kpqLbFo-ZgXsU5HtFNcVDHo)
 - [**Параллельные вычисления и распределенные системы**](https://www.youtube.com/watch?v=VgYvqWd3hnU&list=PLJOzdkh8T5kpqLbFo-ZgXsU5HtFNcVDHo)
 
+#### АиСД
+- [**Степанов 1 семестр 23 год**](https://youtube.com/playlist?list=PL4_hYwCyhAvZ9ObmpO7n9eyg-FS5H3TQ6&si=-TnZZ7gg5FJL5HTX)
+- [**Степанов 2 семестр 23 год**](https://youtube.com/playlist?list=PL4_hYwCyhAvZSdTWba4rwTlmdMwqf0gEd&si=dCUgK9SfFdmoTmsa)
+- [**Маврин 2 семестр**](https://youtube.com/playlist?list=PLrS21S1jm43iUIpR51VCJgxY1MjwS-pAZ)
+- [**Маврин 3 семестр**](https://youtube.com/playlist?list=PLrS21S1jm43gpHkErn2Ecel6dvio5e6EO)
+- [**Маврин 4 семестр**](https://youtube.com/playlist?list=PLrS21S1jm43jQQWGLI228zanoVzu3RkGY) - для задротов, не рекомендую
+
 ### 📖 Книги и справочники
 - [**Хендбук по ML от Яндекс**](https://education.yandex.ru/handbook/ml)
 - [**Справочник по DS на Python**](https://jakevdp.github.io/PythonDataScienceHandbook/) - краткий экскурс в NumPy, Pandas, Matplotlib, Scikit-Learn
