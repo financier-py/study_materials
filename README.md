@@ -27,6 +27,12 @@
 - [**Сложность вычислений**](https://www.youtube.com/watch?v=VgYvqWd3hnU&list=PLJOzdkh8T5kpqLbFo-ZgXsU5HtFNcVDHo)
 - [**Параллельные вычисления и распределенные системы**](https://www.youtube.com/watch?v=VgYvqWd3hnU&list=PLJOzdkh8T5kpqLbFo-ZgXsU5HtFNcVDHo)
 
+#### C++
+- [**Мещерин основной поток 21-22 год**](https://youtube.com/playlist?list=PLmSYEYYGhnBuZjDbpkv_AmYy-Vneg6m--&si=UN8dazeYfa-Kj9oX)
+- [**Мещерин продвинутый поток 21-22 год**](https://youtube.com/playlist?list=PLmSYEYYGhnBviRYhIDty-CSTDS16a3whl&si=6cbgT98GRQ8uQz8w)
+- [**Владимиров магистерские курсы**](https://disk.yandex.ru/d/XAd4yMcX8bjKsw) - ссылка на яндекс диск с конспектами лекций, записями лекций магистерской программы по C++ от Константина Владимирова. Также там находятся материалы по toolchain, C, стандартам C++ и прочее
+- [**Владимиров базовый курс**](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK) - бакалаврский курс по C++ от Константина Владимирова
+
 #### АиСД
 - [**Степанов 1 семестр 23 год**](https://youtube.com/playlist?list=PL4_hYwCyhAvZ9ObmpO7n9eyg-FS5H3TQ6&si=-TnZZ7gg5FJL5HTX)
 - [**Степанов 2 семестр 23 год**](https://youtube.com/playlist?list=PL4_hYwCyhAvZSdTWba4rwTlmdMwqf0gEd&si=dCUgK9SfFdmoTmsa)
