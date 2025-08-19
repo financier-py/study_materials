@@ -44,6 +44,10 @@
 - [**Хендбук по ML от Яндекс**](https://education.yandex.ru/handbook/ml)
 - [**Справочник по DS на Python**](https://jakevdp.github.io/PythonDataScienceHandbook/) - краткий экскурс в NumPy, Pandas, Matplotlib, Scikit-Learn
 
+### Остальные ссылки
+- [**Идеи для петпроектов**](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python)
+
+
 ## Структура репозитория
 - `data_science/` - книги по DS и ML
 - `алгоритмы/` - книги по алгосам и структурам данных
