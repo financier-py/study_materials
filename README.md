@@ -26,6 +26,7 @@
 - [**Алгоритмы и структуры поиска**](https://www.youtube.com/watch?v=5qmYaOoHX8A&list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX)
 - [**Сложность вычислений**](https://www.youtube.com/watch?v=VgYvqWd3hnU&list=PLJOzdkh8T5kpqLbFo-ZgXsU5HtFNcVDHo)
 - [**Параллельные вычисления и распределенные системы**](https://www.youtube.com/watch?v=VgYvqWd3hnU&list=PLJOzdkh8T5kpqLbFo-ZgXsU5HtFNcVDHo)
+- [**A/B тестирование**](https://shad.yandex.ru/abweek#program)
 
 #### C++
 - [**Мещерин основной поток 21-22 год**](https://youtube.com/playlist?list=PLmSYEYYGhnBuZjDbpkv_AmYy-Vneg6m--&si=UN8dazeYfa-Kj9oX)
