@@ -9,15 +9,25 @@
 ### 🎓 Лекции и курсы
 
 #### Математика
+- [**Лекции по линалу от Авдеева**](https://www.youtube.com/watch?v=m3sgbykms3Y&list=PLEwK9wdS5g0qz0T0B6fEcJWMnJhu-1NcE) - на ютубе также несложно найти и семинары к этим лекциям. А на [вики](http://wiki.cs.hse.ru/Wiki_%D0%A4%D0%9A%D0%9D/%D0%90%D1%80%D1%85%D0%B8%D0%B2) найдете и дзшки
+- [**Линалу КНАД ВШЭ**]([https://disk.yandex.ru/d/4ramNmxv1VI3gQ/%D0%9B%D0%90/%D0%91%D0%9A%D0%9D%D0%90%D0%94241](http://wiki.cs.hse.ru/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0_%D0%9A%D0%9D%D0%90%D0%94_24/25)) - ссылка на яндекс диск, также есть ссылка и на [вики](http://wiki.cs.hse.ru/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0_%D0%9A%D0%9D%D0%90%D0%94_24/25), где еще есть и все конспекты с дзшками
+- [**Основы матричный вычислений ВШЭ**](http://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D1%85_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_2024/25) - ссылка на вики, где найдете [лекции, конспекты и дзшки](https://disk.360.yandex.ru/d/RA0U45QCD_GLZw)
 - [**Лекции по матану от Шапошникова**](https://teach-in.ru/lecturer/shaposhnikov)
-- [**Лекции по линалу от Авдеева**](https://www.youtube.com/watch?v=m3sgbykms3Y&list=PLEwK9wdS5g0qz0T0B6fEcJWMnJhu-1NcE)
 - [**Лекции по теорверу от Горбачёва**](https://youtu.be/RKXUSObK50U?si=rpmJQvvjnJd0wF7W)
+- [**Лекции по мат. статистике**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRIiB5S5ld-3nxxVAH5cyAc) - от Computer Science Center\
+- [**Обзорная книга "Mathematics for Machine Learning"**](https://mml-book.github.io/)
+- [**Курс "Mathematics for Machine Learning" от University of Tubingen**](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php) - ссылка на сайт с материалами, ссылка на плейлист с лекциями [тут](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
+- [**Математика больших данных**](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) - МФТИ
+- [**Прикладная математика для машинного обучения**](https://teach-in.ru/course/applied-mathematics-for-machine-learning?ysclid=me96ccb9q3695478055) - МГУ
 
 #### Data Science и Machine Learning
 - [**Школа VK MADE анализа данных**](https://github.com/alexysxeightn/MADE/blob/main/README.md) - аналог ШАДа, курсы за разные года
 - [**Школа глубокого обучения МФТИ на Stepik**](https://stepik.org/org/dlschool#!) - курсы по глубокому и машинному обучению
 - [**ВШЭ Материалы Соколова**](https://github.com/esokolov/ml-course-hse/tree/master) - ссылки на лекции, конспекты лекций и семинаров, домашние задания
+- [**Основы ML ВШЭ записи лекций и семов**](http://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/2025#.D0.9B.D0.B5.D0.BA.D1.86.D0.B8.D0.B8)
 - [**Курс Константина Пчелина в МГУ (весна 2025)**](https://github.com/pyshka501/courses_MSU/tree/main?tab=readme-ov-file)
+- [**Python для сбора и анализа данных КНАД 24/25**](http://wiki.cs.hse.ru/Python_%D0%B4%D0%BB%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%B0_%D0%B8_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%9A%D0%9D%D0%90%D0%94_24/25)
+- [**Методы оптимизации**](https://opt.mipt.ru/) - курс 22 года от МФТИ от Гасникова и Хильдебранда, [доп. материалы ищите здесь](https://opt.mipt.ru/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D1%8B%D1%85_%D0%BB%D0%B5%D1%82/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8._2021/)
 
 #### Курсы ШАДа
 - [**Машинное обучение**](https://www.youtube.com/watch?v=SZkrxWhI5qM&feature=youtu.be)
