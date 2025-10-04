@@ -14,7 +14,7 @@
 - [**Основы матричный вычислений ВШЭ**](http://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D1%85_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_2024/25) - ссылка на вики, где найдете [лекции, конспекты и дзшки](https://disk.360.yandex.ru/d/RA0U45QCD_GLZw)
 - [**Лекции по матану от Шапошникова**](https://teach-in.ru/lecturer/shaposhnikov)
 - [**Лекции по теорверу от Горбачёва**](https://youtu.be/RKXUSObK50U?si=rpmJQvvjnJd0wF7W)
-- [**Лекции по мат. статистике**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRIiB5S5ld-3nxxVAH5cyAc) - от Computer Science Center\
+- [**Лекции по мат. статистике**](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRIiB5S5ld-3nxxVAH5cyAc) - от Computer Science Center
 - [**Обзорная книга "Mathematics for Machine Learning"**](https://mml-book.github.io/)
 - [**Курс "Mathematics for Machine Learning" от University of Tubingen**](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php) - ссылка на сайт с материалами, ссылка на плейлист с лекциями [тут](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 - [**Математика больших данных**](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) - МФТИ
